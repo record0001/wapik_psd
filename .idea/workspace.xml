@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list id="d3144f9e-ce24-4099-90a4-3cc973116e9b" name="Default" comment="" />
     <list default="true" id="a72fd00d-145d-4215-81d2-7844fe814dc8" name="Proba" comment="Proba 5">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index_2.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="untitled5.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,11 +29,21 @@
     <splitter split-orientation="horizontal" split-proportion="0.5854451">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="255">
                   <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/.gitignore">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="34">
+                  <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -179,6 +191,7 @@
         <option value="$PROJECT_DIR$/_source/scss/adaptiv.scss" />
         <option value="$PROJECT_DIR$/5.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -340,7 +353,7 @@
       <workItem from="1594131071358" duration="2608000" />
       <workItem from="1594142420117" duration="10282000" />
       <workItem from="1594220362366" duration="36376000" />
-      <workItem from="1594543921637" duration="1739000" />
+      <workItem from="1594543921637" duration="2512000" />
     </task>
     <task id="LOCAL-00001" summary="Proba 12345">
       <created>1594503471202</created>
@@ -395,7 +408,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="193855000" />
+    <option name="totallyTimeSpent" value="194628000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -457,14 +470,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_source/scss/mycss.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/adaptiv.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -790,6 +795,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
