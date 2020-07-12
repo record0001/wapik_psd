@@ -36,7 +36,8 @@ header {
   margin: 0 auto;
   color: #fff;
   height: 100vh;
-  width: 100vw;
+  width: 100%;
+  //width: 100vw;
 
   .container {
     ///max-width: 1500px;
@@ -44,7 +45,8 @@ header {
     background-color: #2d6769;
     opacity: 0.9;
     height: 100vh;
-    width: 100vw;
+    //width: 100vw;
+    width: 100%;
     background: linear-gradient(180deg, rgb(24, 57, 58) 0%, rgb(41, 98, 100) 25%);
     position: relative;
   }
