@@ -1,0 +1,33 @@
+@import "mixin.scss";
+
+body, ul, li, span, a, p, nav, h1 {
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  background-color: darkgrey;
+}
+
+div {
+  box-sizing: border-box;
+}
+
+
+/*
+@media screen and (max-width: 480px){
+  div {
+    border: 1px solid red;
+    .topMenu__rightBlock{
+
+      display: none;
+
+    }
+    .topMenu{
+     // position: relative;
+     // @include mini_hr;
+      //@include mini_hr;
+      //@include mini_hr;
+    }
+  }
+}*/

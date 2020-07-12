@@ -1,0 +1,10 @@
+@mixin mini_hr ($width: 65px, $height: 1px, $bg: #6fb048 ){
+  &:after{
+    content: '';
+    display: block;
+    width: $width;
+    height: $height;
+    background: $bg;
+    margin: 20px auto;
+  }
+}
